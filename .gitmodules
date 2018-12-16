@@ -1,0 +1,12 @@
+[submodule "bitbucket-git-docker-example"]
+	path = bitbucket-git-docker-example
+	url = git@bitbucket.org:lox24/docker-example.git
+[submodule "bitbucket-https-docker-example"]
+	path = bitbucket-https-docker-example
+	url = https://lox24@bitbucket.org/lox24/docker-example.git
+[submodule "github-git-docker-example"]
+	path = github-git-docker-example
+	url = git@github.com:buildkite/docker-example.git
+[submodule "github-https-docker-example"]
+	path = github-https-docker-example
+	url = https://github.com/buildkite/docker-example.git
